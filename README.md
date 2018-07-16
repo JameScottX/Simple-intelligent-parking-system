@@ -5,9 +5,9 @@
 
 ### The following is our test results  
 
-[Parking interface](https://github.com/JameScottX/Simple-intelligent-parking-system/blob/master/img/park.png)  
+![Parking interface](https://github.com/JameScottX/Simple-intelligent-parking-system/blob/master/img/park.png)  
 
-[Bluetooth setting interface](https://github.com/JameScottX/Simple-intelligent-parking-system/blob/master/img/blt-set.png)  
+![Bluetooth setting interface](https://github.com/JameScottX/Simple-intelligent-parking-system/blob/master/img/blt-set.png)  
 
 #### This system needs to be combined with hardware and lower computer.  
 
