@@ -10,4 +10,6 @@
 ![Bluetooth setting interface](https://github.com/JameScottX/Simple-intelligent-parking-system/blob/master/img/blt-set.png)  
 
 #### This system needs to be combined with hardware and lower computer.  
+For more information:  
+[**My blog**](https://blog.csdn.net/qq_37389133/article/details/79412921?spm=1001.2014.3001.5501)  
 
